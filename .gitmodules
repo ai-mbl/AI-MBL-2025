@@ -19,12 +19,12 @@
 [submodule "06_failure_modes"]
 	path = 06_failure_modes
 	url = https://github.com/ai-mbl/failure_modes
-[submodule "07_xai"]
-	path = 07_xai
-	url = https://github.com/ai-mbl/knowledge_extraction
 [submodule "08_tracking"]
 	path = 08_tracking
 	url = https://github.com/ai-mbl/tracking
 [submodule "example_project"]
 	path = example_project
 	url = https://github.com/ai-mbl/example-project
+[submodule "07_xai"]
+	path = 07_xai
+	url = https://github.com/ai-mbl/xai
